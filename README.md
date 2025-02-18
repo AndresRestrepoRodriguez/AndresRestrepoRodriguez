@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-aorestrepor.vercel.app/](https://portfolio-aorestrepor.vercel.app/)
 
-- 📫 How to reach me **aorestrepor@gmail.co**
+- 📫 How to reach me **aorestrepor@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-aorestrepor.vercel.app/](https://portfolio-aorestrepor.vercel.app/)
 
